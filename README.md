@@ -1,3 +1,6 @@
+
+$pip install sh-Tic-Tac-Toe
+
 Game Description: 
 
 The Tic_tac_toe game is a game for two
